@@ -1,0 +1,20 @@
+
+#cv-form{
+    /* display: none; */
+ }
+ #template-right{
+ display: none;
+ }
+ 
+ body{
+     background-color: rgb(177, 171, 171);
+ }
+ 
+ .myimg{
+     border: 1px solid black;
+     border-radius: 50%;
+     width: 200px;
+ }
+ .card-header {
+     background-color:rgb(207, 185, 249);
+ }
